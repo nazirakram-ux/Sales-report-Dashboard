@@ -118,4 +118,4 @@ Bubble Map / Filled Map
 | High-level geographical representation of global operations and scaling efforts.  
 | Donut Chart 
 
-Screenshort
+Screenshort :- https://github.com/nazirakram-ux/Sales-report-Dashboard/blob/main/sales%20image.png
